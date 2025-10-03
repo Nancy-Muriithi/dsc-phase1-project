@@ -53,7 +53,7 @@ In our case, VCM is the main issue, as most accidents happened in misty conditio
 ## Interactive Dashboard  
 
 You can view my Tableau dashboard here:  
-![🔗View Dashboard](https://public.tableau.com/views/learn-wb-09-03-25-NM/AVIATIONANALYSISDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+[![View Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/views/learn-wb-09-03-25-NM/AVIATIONANALYSISDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 
 ## Conclusions
