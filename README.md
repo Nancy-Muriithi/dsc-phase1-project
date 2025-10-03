@@ -37,6 +37,23 @@ The graph shows that Kenetic Aviation, McKean, McLachlan, McKinnis, McKinney, Mc
 <img src="images/accidents_by _phase_of_flight.png" alt="Accidents_by_phase_of_flight" width="1100" height="400">
 
 Landing is a critical phase of flight, and pilots must exercise extra care. The graph shows that many accidents over the years have occurred due to incorrect or unsafe landings, highlighting the importance of proper technique and attention during this phase.
+### Severity by Weather Condition
+<img src="images/Weather_condition.png" alt="Severity_by_weather_condition" width="1100" height="400">
+    Weather Analysis
+
+IMC: Poor visibility requiring instrument flight.
+
+VCM: Mist near airports, reducing visibility during landing.
+
+UNK: Unknown weather conditions.
+
+In our case, VCM is the main issue, as most accidents happened in misty conditions.
+
+## Interactive Dashboard  
+
+You can view my Tableau dashboard here:  
+[![View Dashboard](https://img.shields.io/badge/Tableau-Dashboard-blue)](https://public.tableau.com/views/learn-wb-09-03-25-NM/AVIATIONANALYSISDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
 
 ## Conclusions
 
